@@ -1,0 +1,20 @@
+{
+  "stages": [
+    {
+      "name": "Stage1",
+      "startTime": "1728800123",
+      "endTime": "1730268923",
+      "earningRate": 1,
+      "totalPointCap": 1000,
+      "singleAddressCap": 100
+    },
+    {
+      "name": "Stage2",
+      "startTime": "1730268923",
+      "endTime": "1732947323",
+      "earningRate": 1.0,
+      "totalPointCap": 2000,
+      "singleAddressCap": 200
+    }
+  ]
+}
